@@ -1,0 +1,8 @@
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\bin\Release\netcoreapp3.1\ECommerceSystem.Security.deps.json
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\bin\Release\netcoreapp3.1\ECommerceSystem.Security.dll
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\bin\Release\netcoreapp3.1\ECommerceSystem.Security.pdb
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Release\netcoreapp3.1\ECommerceSystem.Security.AssemblyInfoInputs.cache
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Release\netcoreapp3.1\ECommerceSystem.Security.AssemblyInfo.cs
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Release\netcoreapp3.1\ECommerceSystem.Security.csproj.CoreCompileInputs.cache
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Release\netcoreapp3.1\ECommerceSystem.Security.dll
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Release\netcoreapp3.1\ECommerceSystem.Security.pdb

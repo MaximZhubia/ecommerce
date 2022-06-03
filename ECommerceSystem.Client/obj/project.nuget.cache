@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbuutfXL2fHqyhFda6zQ8yxTGOtIKC6CwXKdccdj7p5hhPr7bH5TLe7CgHa3zRbzEMCd7t4PyZZai+fGReDvNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mzhub\\IdeaProjects\\ECommerceSystem\\ECommerceSystem.Client\\ECommerceSystem.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mzhub\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mzhub\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

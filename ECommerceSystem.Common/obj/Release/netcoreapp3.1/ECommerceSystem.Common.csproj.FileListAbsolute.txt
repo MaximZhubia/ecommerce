@@ -1,0 +1,12 @@
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\bin\Release\netcoreapp3.1\ECommerceSystem.Common.deps.json
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\bin\Release\netcoreapp3.1\ECommerceSystem.Common.dll
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\bin\Release\netcoreapp3.1\ECommerceSystem.Common.pdb
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\bin\Release\netcoreapp3.1\ECommerceSystem.Security.dll
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\bin\Release\netcoreapp3.1\ECommerceSystem.Security.pdb
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\obj\Release\netcoreapp3.1\ECommerceSystem.Common.csprojAssemblyReference.cache
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\obj\Release\netcoreapp3.1\ECommerceSystem.Common.AssemblyInfoInputs.cache
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\obj\Release\netcoreapp3.1\ECommerceSystem.Common.AssemblyInfo.cs
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\obj\Release\netcoreapp3.1\ECommerceSystem.Common.csproj.CoreCompileInputs.cache
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\obj\Release\netcoreapp3.1\ECommerceSystem.Common.csproj.CopyComplete
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\obj\Release\netcoreapp3.1\ECommerceSystem.Common.dll
+C:\Projects\ECommerceSystem\ECommerceSystem.Common\obj\Release\netcoreapp3.1\ECommerceSystem.Common.pdb

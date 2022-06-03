@@ -1,0 +1,9 @@
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\bin\Debug\netcoreapp3.1\ECommerceSystem.Security.deps.json
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\bin\Debug\netcoreapp3.1\ECommerceSystem.Security.dll
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\bin\Debug\netcoreapp3.1\ECommerceSystem.Security.pdb
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Debug\netcoreapp3.1\ECommerceSystem.Security.AssemblyInfoInputs.cache
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Debug\netcoreapp3.1\ECommerceSystem.Security.AssemblyInfo.cs
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Debug\netcoreapp3.1\ECommerceSystem.Security.csproj.CoreCompileInputs.cache
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Debug\netcoreapp3.1\ECommerceSystem.Security.dll
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Debug\netcoreapp3.1\ECommerceSystem.Security.pdb
+C:\Projects\ECommerceSystem\ECommerceSystem.Security\obj\Debug\netcoreapp3.1\ECommerceSystem.Security.csprojAssemblyReference.cache
